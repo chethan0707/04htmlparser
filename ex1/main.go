@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"htmlparser/link"
+	link "htmlparser"
 	"strings"
 )
 
