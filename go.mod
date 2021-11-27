@@ -1,4 +1,4 @@
-module github.com/chethan0707
+module github.com/chethan0707/link
 
 go 1.17
 
