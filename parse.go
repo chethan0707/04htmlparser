@@ -12,6 +12,7 @@ type Link struct {
 	Text string
 }
 
+//
 func Parse(r io.Reader) ([]Link, error) {
 
 	doc, err := html.Parse(r)
