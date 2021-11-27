@@ -1,4 +1,4 @@
-module htmlparser
+module 04htmlparser
 
 go 1.17
 
