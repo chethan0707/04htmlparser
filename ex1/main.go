@@ -1,8 +1,8 @@
 package main
 
 import (
+	link "04htmlparser"
 	"fmt"
-	link "htmlparser"
 	"strings"
 )
 
