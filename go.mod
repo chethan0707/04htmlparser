@@ -1,4 +1,4 @@
-module 04htmlparser
+module github.com/chethan0707
 
 go 1.17
 
